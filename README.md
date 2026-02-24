@@ -1,14 +1,14 @@
 ## 👋 Hey! Eu sou o Leonardo
 
 
-### 📊 Estatísticas do GitHub  
+## 📊 Estatísticas do GitHub
 
-<div>
-  <a href="https://github.com/leonardo9821">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo9821&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo9821&layout=compact&langs_count=16&theme=tokyonight"/>
-  </a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+
+---
+
 
 
 <h3>Linguagens que uso</h3>
