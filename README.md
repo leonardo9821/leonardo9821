@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Olá, eu sou Leonardo Teixeira
+# Leonardo Teixeira
 
-### 💻 Desenvolvedor em formação | Infraestrutura | Automação | Redes | Linux
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+%7C+C%2B%2B+%7C+Flutter+%7C+Linux;Automação+e+Infraestrutura;Redes+de+Computadores+e+DevOps;Sempre+aprendendo+algo+novo+🚀" />
+### 💻 Desenvolvedor| Infraestrutura | Automação | Redes | Linux
 
 </div>
 
