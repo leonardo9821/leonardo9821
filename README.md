@@ -20,12 +20,11 @@
 # 📚 Atualmente estudando
 
 - 🚀 Flutter & Dart  
-- 🐍 Automação com Python  
+- 🐍 Python  
 - 🧠 Arquitetura limpa e boas práticas  
-- 🗄️ PostgreSQL, MySQL e Firebase  
 - 🌐 Redes de computadores  
 - 🐧 Linux e virtualização  
-- ⚙️ DevOps e infraestrutura  
+- ⚙️ Cyber segurança e Redes 
 
 ---
 
