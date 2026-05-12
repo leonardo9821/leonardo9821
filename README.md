@@ -12,7 +12,7 @@
 
 🎯 Estudante de **Análise e Desenvolvimento de Sistemas**  
 ⚙️ Apaixonado por tecnologia, automação, infraestrutura e desenvolvimento  
-🌐 Explorando o universo de **Python, C++, Linux, Flutter, DevOps e redes**  
+🌐 Explorando o universo de **Python, C++, Linux, Flutter e redes**  
 🧠 Interessado em cibersegurança, virtualização e soluções escaláveis  
 
 ---
