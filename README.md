@@ -8,6 +8,29 @@
 
 ---
 
+# 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+
+</div>
+
+
+---
+
 # 🚀 Sobre mim
 
 🎯 Estudante de **Análise e Desenvolvimento de Sistemas**  
@@ -25,19 +48,6 @@
 - 🌐 Redes de computadores  
 - 🐧 Linux e virtualização  
 - ⚙️ Cyber segurança e Redes 
-
----
-
-## 📊 Atividade no GitHub
-
-<div align="center">
-
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo9821&hide=contribs,prs&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo9821&layout=compact&theme=tokyonight)
-
-</div>
-
 ---
 ## 🏆 Conquistas
 
