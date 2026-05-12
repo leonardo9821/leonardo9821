@@ -30,9 +30,13 @@
 
 ## 📊 Atividade no GitHub
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardo9821&theme=tokyo-night"/>
-</p>
+<div align="center">
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo9821&hide=contribs,prs&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo9821&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 ## 🏆 Conquistas
