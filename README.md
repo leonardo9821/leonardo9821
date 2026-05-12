@@ -56,6 +56,14 @@
 </p>
 
 ---
+<p align="center">
+
+# 📊 Estatísticas GitHub
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonardo9821&show_icons=true&theme=tokyonight"/>
+
+</p>
+---
 
 # 🔥 Sequência de contribuições
 
