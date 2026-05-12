@@ -31,20 +31,17 @@
 
 ---
 
-# 📈 Estatísticas GitHub
-
-## 📈 Estatísticas GitHub
+## 📊 Atividade no GitHub
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=leonardo9821&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardo9821&theme=tokyo-night"/>
+</p>
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo9821&layout=compact&theme=tokyonight&cache_seconds=1800" 
-  />
+---
+## 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leonardo9821&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
